@@ -1,0 +1,1469 @@
+# Translation of Themes - OnePress in Lithuanian
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-26 14:52:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: lt\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Description of the plugin/theme
+msgid "OnePress is an outstanding creative and flexible WordPress one page theme well suited for business website, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. The theme overall is an elegant and classic one, a fine example of Bootstrap 4 WordPress theme which compatibility with latest version of WooCommerce. (Live preview : http://www.famethemes.com/preview/?theme=OnePress)"
+msgstr "OnePress yra išskirtinė, kūrybiška ir lanksti WordPress vieno puslapio išvaizdos tema, puikiai tinkama verslo, portfolio, agentūros, produkto demonstravimo ar specialisto svetainei - visiems, kurie vertina gerą dizainą. Bendrai tema yra elegantiška ir klasikinė, tai puikus Bootstrap 4 paremtos WordPress temos pavyzdys. Be to, ši tema yra suderinama su naujausia WooCommerce versija. (Demonstracija: http://www.famethemes.com/preview/?theme=OnePress)"
+
+#. #-#-#-#-#  onepress.pot (OnePress 1.4.3)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/dashboard.php:327
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/customizer.php:597
+msgid "Check this box to show featured image on single post."
+msgstr "Pažymėkite, jei norite rodyti rodyti pagrindinį paveikslėlį įrašo puslapyje."
+
+#: inc/customizer.php:582
+msgid "Check this box to show single post meta such as post date, author, category,..."
+msgstr "Pažymėkite, jei norite rodyti įrašo meta informaciją - datą, autorių, kategoriją..."
+
+#: inc/customizer.php:580
+msgid "Show single post meta"
+msgstr "Rodyti įrašo meta informaciją."
+
+#: inc/customizer.php:567
+msgid "Check this box to show post thumbnail on single post."
+msgstr "Pažymėkite, jei norite rodyti įrašo paveikslėlio piktogramą."
+
+#: inc/customizer.php:565 inc/customizer.php:595
+msgid "Show single post thumbnail"
+msgstr "Rodyti įrašo piktogramą"
+
+#: inc/customizer.php:550
+msgid "Single Post"
+msgstr "Įrašas"
+
+#: inc/customizer.php:852
+msgid "The amount of time in between slides, expressed as the number of milliseconds."
+msgstr "Kiek laiko rodoma viena skaidrė, milisekundėmis."
+
+#: inc/customizer.php:851
+msgid "Slider duration speed"
+msgstr "Skaidrių rodymo trukmė"
+
+#: inc/customizer.php:835
+msgid "This is the speed at which the image will fade in. Integers in milliseconds are accepted."
+msgstr "Per kiek laiko vienas paveikslėlis pakeičiamas kitu, milisekundėmis."
+
+#: inc/customizer.php:834
+msgid "Slider animation speed"
+msgstr "Skaidrių animacijos greitis"
+
+#: inc/customizer.php:816
+msgid "Text animation speed"
+msgstr "Teksto animacijos greitis"
+
+#: inc/dashboard.php:379
+msgid "Child theme uses it’s own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr "Potemė naudoja atskirą nustatymų vardą. Ar norite kopijuoti nustatymus iš tėvinės temos į šią potemę?"
+
+#: inc/customizer.php:3025
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:3021
+msgid "Search"
+msgstr "Paieška"
+
+#: inc/dashboard.php:558
+msgid "Are you sure want to copy ?"
+msgstr "Ar tikrai norite kopijuoti?"
+
+#: inc/dashboard.php:419
+msgid "Recommend Plugins"
+msgstr "Rekomenduojami įskiepiai"
+
+#: inc/dashboard.php:402
+msgid "Your settings copied."
+msgstr "Jūsų nustatymai nukopijuoti."
+
+#: inc/dashboard.php:391
+msgid "To Theme"
+msgstr "Į temą"
+
+#: inc/dashboard.php:385
+msgid "From Theme"
+msgstr "Iš temos"
+
+#: inc/dashboard.php:377
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "Naudojate %1$s temą, tai temos OnePress potemė."
+
+#: inc/dashboard.php:238
+msgid "Details"
+msgstr "Detalės"
+
+#: inc/dashboard.php:166
+msgid "Import Demo Data"
+msgstr "Importuoti pavyzdinius duomenis"
+
+#: inc/dashboard.php:166
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Taupykite laiką - importuokite pavyzdinius duomenis ir jūsų svetainė bus parengta tvarkymui per kelias minutes. %s"
+
+#: inc/customizer.php:1586
+msgid "Read More Text"
+msgstr "„Skaityti plačiau“ tekstas"
+
+#: inc/customizer.php:1581 section-parts/section-gallery.php:38
+msgid "View More"
+msgstr "Plačiau"
+
+#: inc/customizer.php:1571
+msgid "Read More Link"
+msgstr "„Skaityti plačiau“ nuoroda"
+
+#: inc/customizer.php:132
+msgid "No sidebar"
+msgstr "Nėra šoninės juostos"
+
+#: inc/customizer.php:131
+msgid "Left sidebar"
+msgstr "Šoninė juosta kairėje"
+
+#: inc/customizer.php:130
+msgid "Right sidebar"
+msgstr "Šoninė juosta dešinėje"
+
+#: inc/customizer.php:127
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "Tinklalapio išdėstymas, galioja visiems puslapiams, išskyrus pradinį ir puslapių šablonus."
+
+#: inc/customizer.php:126
+msgid "Site Layout"
+msgstr "Tinklalapio išdėstymas"
+
+#: functions.php:105
+msgid "Famethemes Demo Importer"
+msgstr "FameThemes importavimo įrankis"
+
+#: functions.php:101
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/dashboard.php:399
+msgid "Copy now"
+msgstr "Kopijuoti"
+
+#: functions.php:153
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce šoninė juosta"
+
+#: inc/customizer.php:2983
+msgid "Upgrade to OnePress Plus to unlock this feature."
+msgstr "Įsigykte OnePress Pluss, jei norite naudotis šia funkcija."
+
+#: inc/customizer.php:2098
+msgid "1 Column"
+msgstr "1 stulpelis"
+
+#: inc/customizer.php:1555
+msgid "Enable Lightbox"
+msgstr "Įjungti Lightbox"
+
+#: inc/customizer.php:1541
+msgid "Number items"
+msgstr "Skaičių elementai"
+
+#: inc/customizer.php:1516
+msgid "Layout columns"
+msgstr "Išdėstymo stulpeliai"
+
+#: inc/customizer.php:1500
+msgid "Row Height"
+msgstr "Eilutės aukštis"
+
+#: inc/customizer.php:1484
+msgid "Item Spacing"
+msgstr "Tarpai tarp elementų"
+
+#: inc/customizer.php:1470
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customizer.php:1469
+msgid "Justified"
+msgstr "Pagal abu kraštus"
+
+#: inc/customizer.php:1468
+msgid "Slider"
+msgstr "Skaidrės"
+
+#: inc/customizer.php:1467
+msgid "Carousel"
+msgstr "Karuselė"
+
+#: inc/customizer.php:1466
+msgid "Grid"
+msgstr "Tinklelis"
+
+#: inc/customizer.php:1461
+msgid "Display"
+msgstr "Atvaizdavimas"
+
+#: inc/customizer.php:1446
+msgid "Default, inside container"
+msgstr "Numatytasis, konteinerio viduje"
+
+#: inc/customizer.php:1441
+msgid "Layout"
+msgstr "Išdėstymas"
+
+#: inc/customizer.php:1427
+msgid "Select a page which have content contain [gallery] shortcode."
+msgstr "Pasirinkite puslapį kurio turinyje yra [gallery] redaktoriaus žyma."
+
+#: inc/customizer.php:1422
+msgid "Select Gallery Page"
+msgstr "Pasirinkti galerijos puslapį"
+
+#: inc/customizer.php:1405
+msgid "Page"
+msgstr "Puslapis"
+
+#: inc/customizer.php:1400
+msgid "Select Gallery Source"
+msgstr "Pasirinkti galerijos šaltinį"
+
+#: inc/customizer.php:1339 section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "Galerija"
+
+#: inc/customizer.php:1324 section-parts/section-gallery.php:2
+msgid "gallery"
+msgstr "galerija"
+
+#: inc/customizer.php:1289
+msgid "Section: Gallery"
+msgstr "Skiltis: Galerija"
+
+#: inc/customizer.php:385
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr "Grįžti į puslapio viršų, paspaudus ant tinklalapio logotipo ar pavadinimo (veikia tik pradiniame puslapyje)."
+
+#: inc/dashboard.php:538
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes importavimo įrankis"
+
+#: inc/dashboard.php:537
+msgid "Hey."
+msgstr "Labas."
+
+#: inc/dashboard.php:535
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s Jums pirmiausiai reikia įdiegti ir aktyvuoti %2$s įskiepį."
+
+#: inc/dashboard.php:218 inc/dashboard.php:519
+msgid "Active Now"
+msgstr "Aktyvuoti"
+
+#: inc/dashboard.php:196 inc/dashboard.php:497
+msgid "Install Now"
+msgstr "Įdiegti"
+
+#: inc/dashboard.php:329
+msgid "One Click Demo Import"
+msgstr "Automatinis pavyzdinio turinio importavimas"
+
+#: inc/customizer.php:1123
+msgid "Button #2 style"
+msgstr "Mygtuko #2 stilius"
+
+#: inc/customizer.php:2644
+msgid "More News Button Text"
+msgstr "Daugiau naujienų mygtuko tekstas"
+
+#: inc/customizer.php:2633
+msgid "It should be your blog page link."
+msgstr "Tai turėtų būti jūsų įrašų puslapio nuoroda."
+
+#: inc/customizer.php:1081 inc/customizer.php:1134
+msgid "Danger"
+msgstr "Pavojus"
+
+#: inc/customizer.php:1080 inc/customizer.php:1133
+msgid "Warning"
+msgstr "Įspėjimas"
+
+#: inc/customizer.php:1079 inc/customizer.php:1132
+msgid "Info"
+msgstr "Informacija"
+
+#: inc/customizer.php:1078 inc/customizer.php:1131
+msgid "Success"
+msgstr "Įvykdyta"
+
+#: inc/customizer.php:1077 inc/customizer.php:1130
+msgid "Primary"
+msgstr "Pagrindinis"
+
+#: inc/customizer.php:1076 inc/customizer.php:1129
+msgid "Button"
+msgstr "Mygtukas"
+
+#: inc/customizer.php:1075 inc/customizer.php:1128
+msgid "Button Secondary"
+msgstr "Mygtukas pagalbinis"
+
+#: inc/customizer.php:1074 inc/customizer.php:1127
+msgid "Button Primary"
+msgstr "Mygtukas pagrindinis"
+
+#: inc/customizer.php:1070
+msgid "Button #1 style"
+msgstr "Mygtuko #1 stilius"
+
+#: inc/customizer.php:761
+msgid "The hero content padding bottom in percent (%)."
+msgstr "Hero skilties atitraukimas apačioje, procentais (%)."
+
+#: inc/customizer.php:745
+msgid "The hero content padding top in percent (%)."
+msgstr "Hero skilties atitraukimas viršuje, procentais (%)."
+
+#: inc/customizer.php:817
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "Pertraukėlės tarp frazių pasikeitimo trukmė, milisekundėmis."
+
+#: inc/customizer.php:540
+msgid "The newsletter form use MailChimp, please follow <a target=\"_blank\" href=\"http://goo.gl/uRVIst\">this guide</a> to know how to get MailChimp Action URL. Example <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+msgstr "Naujienlaiškio forma naudoja MailChimp, prašome naudotis <a target=\"_blank\" href=\"http://goo.gl/uRVIst\">šiuo vedliu</a>, kad sužinotumėte, kaip gauti MailChimp Action URL. Pavyzdžiui <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+
+#: inc/customizer.php:232
+msgid "Footer Info Background"
+msgstr "Poraštės informacijos fonas"
+
+#: inc/customizer.php:217
+msgid "Footer Background"
+msgstr "Poraštės fonas"
+
+#: inc/customizer.php:84
+msgid "Hide site tagline"
+msgstr "Paslėpti tinklalapio apibūdinimą"
+
+#: inc/customizer.php:69
+msgid "Hide site title"
+msgstr "Paslėpti tinklalapio pavadinimą"
+
+#: inc/customizer.php:1931 inc/customizer.php:2141
+msgid "image"
+msgstr "Paveikslėlis"
+
+#: inc/customizer.php:797
+msgid "Text animation"
+msgstr "Teksto animacija"
+
+#: inc/dashboard.php:132
+msgid "OnePress Theme %s"
+msgstr "OnePress tema %s"
+
+#: inc/dashboard.php:130
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "reikalingas %1$s veiksmas"
+msgstr[1] "reikalingi %1$s veiksmai"
+msgstr[2] "reikalingi %1$s veiksmų"
+
+#: inc/customizer.php:611 inc/customizer.php:629
+msgid "Custom CSS"
+msgstr "Individualus CSS"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "Kodėl pasirinkti mus"
+
+#: inc/customizer.php:2090
+msgid "Services Layout Setting"
+msgstr "Paslaugų išdėstymo nustatymai"
+
+#: inc/customizer.php:1949 inc/customizer.php:2483
+msgid "Custom Link"
+msgstr "Sava nuoroda"
+
+#: inc/customizer.php:1945
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer.php:1914
+msgid "Features content"
+msgstr "Savybių turinys"
+
+#: inc/customizer.php:1878
+msgid "Features Layout Setting"
+msgstr "Savybių išdėstymo nustatymai"
+
+#: inc/customizer.php:1825 section-parts/section-features.php:4
+msgid "Features"
+msgstr "Funkcijos"
+
+#: inc/customizer.php:1810 section-parts/section-features.php:2
+msgid "features"
+msgstr "savybės"
+
+#: inc/customizer.php:1775
+msgid "Section: Features"
+msgstr "Skiltis: savybės"
+
+#: inc/customizer.php:1376 inc/customizer.php:1687 inc/customizer.php:1862
+#: inc/customizer.php:2073 inc/customizer.php:2262 inc/customizer.php:2418
+#: inc/customizer.php:2588 inc/customizer.php:2743
+msgid "Section Description"
+msgstr "Skilties aprašymas"
+
+#: inc/customizer.php:1172 inc/customizer.php:1940 inc/customizer.php:2150
+msgid "Image"
+msgstr "Image"
+
+#: inc/customizer.php:1154
+msgid "Content Text"
+msgstr "turinio tekstas"
+
+#: inc/customizer.php:992
+msgid "Layout 2"
+msgstr "Išdėstymas 2"
+
+#: inc/customizer.php:991
+msgid "Layout 1"
+msgstr "Išdėstymas 1"
+
+#: inc/customizer.php:986
+msgid "Display Layout"
+msgstr "Išdėstymas"
+
+#: inc/customizer.php:473 inc/customizer.php:1930 inc/customizer.php:1935
+#: inc/customizer.php:2140 inc/customizer.php:2145
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/customizer.php:477
+msgid "URL"
+msgstr "Nuoroda"
+
+#: inc/customizer.php:469
+msgid "Social network"
+msgstr "Soc. tinklas"
+
+#: footer.php:34
+msgid "Subscribe"
+msgstr "Premumeruoti"
+
+#: inc/customizer.php:460
+msgid "Socials"
+msgstr "Soc. tinklai"
+
+#: inc/customizer.php:371
+msgid "Apply for front page template only."
+msgstr "Taikyti tik pirmo puslapio šablonui."
+
+#: inc/customizer.php:369
+msgid "Header Transparent"
+msgstr "Antraštė permatoma"
+
+#: footer.php:33
+msgid "Enter your e-mail address"
+msgstr "Įveskite savo el. pašto adresą"
+
+#: inc/dashboard.php:355
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Pagalba %s WordPress temos naudotojams yra teikiama per FameThemes pagalbos sistemą."
+
+#: inc/dashboard.php:349
+msgid "OnePress Documentation"
+msgstr "OnePress Dokumentacija"
+
+#: inc/customizer.php:1885 inc/customizer.php:2097 inc/customizer.php:2441
+msgid "2 Columns"
+msgstr "2 stulpeliai"
+
+#: inc/customizer.php:1883 inc/customizer.php:2095 inc/customizer.php:2439
+msgid "4 Columns"
+msgstr "4 stulpeliai"
+
+#: inc/customizer.php:1884 inc/customizer.php:2096 inc/customizer.php:2440
+msgid "3 Columns"
+msgstr "3 stulpeliai"
+
+#: inc/customizer.php:2434
+msgid "Team Layout Setting"
+msgstr "Komandos išdėstymo nustatymai"
+
+#: inc/customizer.php:1763 inc/customizer.php:1974
+msgid "Page Excerpt"
+msgstr "Puslapio santrauka"
+
+#: inc/customizer.php:1762 inc/customizer.php:1973
+msgid "Full Page Content"
+msgstr "Pilno pločio turinys"
+
+#: inc/customizer.php:1757 inc/customizer.php:1968
+msgid "Item content source"
+msgstr "Elemento turinio šaltinis"
+
+#: inc/customizer.php:1718
+msgid "About content page"
+msgstr "Apie turinio puslapis"
+
+#: inc/customizer.php:942
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "Įjungti \"paralax\" efektą (galioja tik pirmam fono paveikslėliui)"
+
+#: inc/customizer.php:354
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "Jie naudojate logotipą ir jis yra per aukštas,ši nuostata vertikaliai išcentruos jūsų meniu."
+
+#: inc/customizer.php:352
+msgid "Center vertical align for menu"
+msgstr "Vertikaliai centruoti meniu"
+
+#: inc/customizer.php:336
+msgid "Responsive Menu Button Color"
+msgstr "Prisitaikančio meniu mygtuko spalva"
+
+#: inc/customizer.php:321
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Meniu nuorodos aktyvi fono spalva"
+
+#: inc/customizer.php:305
+msgid "Menu Link Hover/Active Color"
+msgstr "Meniu nuorodos aktyvi spalva"
+
+#: inc/customizer.php:290
+msgid "Menu Link Color"
+msgstr "Meniu nuorodos spalva"
+
+#: inc/customizer.php:277
+msgid "Only set if you don't use an image logo."
+msgstr "Žymėkite tik jei nenaudojate logotipo paveikslėlio"
+
+#: inc/customizer.php:275
+msgid "Site Title Color"
+msgstr "Tinklaraščio pavadinimo spalva"
+
+#: inc/customizer.php:259
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: inc/customizer.php:244
+msgid "Header"
+msgstr "Puslapinė antraštė"
+
+#: inc/customizer.php:201
+msgid "Primary Color"
+msgstr "Pagrindinė spalva"
+
+#: inc/customizer.php:192
+msgid "Site Colors"
+msgstr "Tinklalapio spalvos"
+
+#: inc/customizer.php:2478
+msgid "User media"
+msgstr "Vartotojo failai"
+
+#: inc/customizer.php:1277
+msgid "Background image"
+msgstr "Fono paveikslėlis"
+
+#: inc/customizer.php:1262
+msgid "Paste Youtube or Vimeo url here"
+msgstr "Įterpkite čia Youtube ar Vimeo nuorodą"
+
+#: inc/customizer.php:1260
+msgid "Video url"
+msgstr "Video nuoroda"
+
+#: inc/customizer.php:1245
+msgid "Section heading"
+msgstr "Skilties antraštė"
+
+#: inc/customizer.php:714 inc/customizer.php:1229 inc/customizer.php:1331
+#: inc/customizer.php:1642 inc/customizer.php:1817 inc/customizer.php:2217
+#: inc/customizer.php:2543 inc/customizer.php:2698
+msgid "The section id, we will use this for link anchor."
+msgstr "Skilties ID, kuris bus naudojamas nuorodoms formuoti."
+
+#: inc/customizer.php:1187
+msgid "Section: Video Lightbox"
+msgstr "Skiltis: Video "
+
+#: inc/dashboard.php:482
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Šaunu! Nėra jokių šiuo metu reikalingų veiksmų."
+
+#: inc/dashboard.php:481
+msgid "Keep update with %s"
+msgstr "Sekite atnaujinimus su %s"
+
+#: inc/dashboard.php:472
+msgid "Change homepage page template"
+msgstr "Pakeiskite pradinio puslapio šaboną"
+
+#: inc/dashboard.php:458
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Kad galėtumėte tvarkyti pradinio puslapio skilčių turinį, reikia nustatyti „Pradinio puslapio“ šabloną jūsų pradiniam puslapiui."
+
+#: inc/dashboard.php:455
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Nustatykite pradinio puslapio šabloną į „Pradinis puslapis“."
+
+#: inc/dashboard.php:441 inc/dashboard.php:465
+msgid "Setup front page displays"
+msgstr "Nustatyti pradinio puslapio vaizdavimą"
+
+#: inc/dashboard.php:438
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Jei norite naudoti vieno puslapio išvaizdą savo tinklalapyje, nueikite į Vaizdusis režimas -&gt; Pradinis puslapis  Ir nustatykite „Pagrindiniame puslapyje rodyti“ nuostatą į „Statinį puslapį“"
+
+#: inc/dashboard.php:436
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Perjunkite „Pagrindiniame puslapyje rodyti“ nuostatą į „Statinį puslapį“"
+
+#: inc/dashboard.php:429 inc/dashboard.php:448
+msgid "Dismiss"
+msgstr "Atmesti"
+
+#: inc/dashboard.php:328
+msgid "Actions Required"
+msgstr "Reikalingi veiksmai"
+
+#: inc/dashboard.php:323
+msgid "Welcome to OnePress - Version %1s"
+msgstr "Naudojate OnePress - versija %1s"
+
+#: inc/dashboard.php:157
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Sveiki! Ačiū, kad pasirinkote %1$s! Norėdami pilnai išnaudoti mūsų išvaizdos temos galimybes, būtinai aplankykite mūsų <a href=\"%2$s\">sveikinimo puslapį</a>"
+
+#: inc/dashboard.php:134
+msgid "OnePress Theme"
+msgstr "OnePress tema"
+
+#: inc/dashboard.php:137
+msgid "OnePress Dashboard"
+msgstr "OnePress valdymo skydelis"
+
+#: inc/customizer.php:923
+msgid "Background Overlay Color"
+msgstr "Fono uždangos spalva"
+
+#: inc/customizer.php:644
+msgid "Section Order & Styling"
+msgstr "Skilčių tvarka ir stilius"
+
+#: inc/customizer.php:149
+msgid "Check this box to disable sticky header when scroll."
+msgstr "Pažymėkite, jei nenorite, kad antraštė liktų lango viršuje, kai slenkate puslapiu žemyn."
+
+#: inc/customizer.php:147
+msgid "Disable Sticky Header?"
+msgstr "Išjungti „prilimpančią“ antraštę?"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Valdikliai kairėje"
+
+#. #-#-#-#-#  onepress.pot (OnePress 1.4.3)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer.php:1447
+msgid "Full Width"
+msgstr "Pilnas plotis"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Pradinis puslapis"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Deja, neradome to, ko Jūs ieškote. Galbūt pasisektų, jei pasinaudotumėte paieška."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, pagal Jūsų užklausą nieko nerasta. Pabandykite dar kartą, naudodami kitokius raktažodžius."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nepavyko rasti"
+
+#: template-parts/content-list.php:38 template-parts/content-page.php:21
+#: template-parts/content-single.php:35 template-parts/content.php:39
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: section-parts/section-hero.php:80
+msgid "#services"
+msgstr "#services"
+
+#: section-parts/section-contact.php:48
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "Galite įdiegti %1$s įskiepį ir tuomet naudomami Vaizdusis režimas &rarr; Skiltis: Kontaktia &rarr; Skilties turinys atvaizduoti čia veikiančią kontaktų formą."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai skirti: %s"
+
+#: inc/template-tags.php:248
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsų komentaras laukia patvirtinimo."
+
+#: inc/template-tags.php:243
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/template-tags.php:242
+msgid "Reply"
+msgstr "Atsakymas"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:240
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:234
+msgid "Post author"
+msgstr "Įrašo autorius(-ė)"
+
+#: inc/template-tags.php:215
+msgid "(Edit)"
+msgstr "(Redaguoti)"
+
+#: inc/template-tags.php:215
+msgid "Pingback:"
+msgstr "Atgalinis pranešimas"
+
+#: inc/template-tags.php:144
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: inc/template-tags.php:144
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: inc/template-tags.php:144
+msgid "Leave a comment"
+msgstr "Komentuoti"
+
+#: inc/template-tags.php:138
+msgid "Tagged %1$s"
+msgstr "Pažymėta %1$s"
+
+#: inc/template-tags.php:132
+msgid "Posted in %1$s"
+msgstr "Paskelbta %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130 inc/template-tags.php:136
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:112
+msgctxt "post author"
+msgid "by %s"
+msgstr "autorius %s"
+
+#: inc/template-tags.php:107
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Paskelbta %s"
+
+#: inc/dashboard.php:354
+msgid "Having Trouble, Need Support?"
+msgstr "Susidūrėte su problema, reikia pagalbos?"
+
+#: inc/dashboard.php:347
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Reikia pagalbos įdiegti ir prisitaikyti %s? Naudokitės mūsų dokumentacija."
+
+#: inc/dashboard.php:346
+msgid "Theme Documentation"
+msgstr "Temos dokumentacija"
+
+#: inc/dashboard.php:342
+msgid "Start Customize"
+msgstr "Pradėti keitimą"
+
+#: inc/dashboard.php:340
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "Temos %s nustatymai veikia vaidžiąjame režime. Spauskite \"Konfigūruoti\" ir pradėkite keisti savo tinklalapį."
+
+#: inc/dashboard.php:339
+msgid "Theme Customizer"
+msgstr "Temos nustatymai"
+
+#: inc/dashboard.php:324
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "OnePress yra kūrybiška ir lanksti WordPress VIENO PUSLAPIO (ang. one-page) išvaizdos tema, puikiai tinkama verslo, portfolio, agentūros, produkto demonstravimo ar specialisto tinklalapiui."
+
+#: inc/customizer.php:2898
+msgid "Fax"
+msgstr "Fakso nr."
+
+#: inc/customizer.php:2883
+msgid "Email"
+msgstr "El.paštas"
+
+#: inc/customizer.php:2868
+msgid "Phone"
+msgstr "Telefono nr."
+
+#: inc/customizer.php:2853
+msgid "Address"
+msgstr "Adresas"
+
+#: inc/customizer.php:2838
+msgid "Contact Box Title"
+msgstr "Kontaktų formos pavadinimas"
+
+#: inc/customizer.php:2814
+msgid "Contact Text"
+msgstr "Kontaktų formos tekstas"
+
+#: inc/customizer.php:2799
+msgid "Check this box to hide contact form."
+msgstr "Pažymėkite, jei norite paslėpti kontaktų formą"
+
+#: inc/customizer.php:2797
+msgid "Hide contact form completely."
+msgstr "Pilnai paslėpkite kontaktų formą."
+
+#: inc/customizer.php:2781
+msgid "Contact Form 7 Shortcode."
+msgstr "Contact Form 7 redaktoriaus žyma (angl. shortcode)."
+
+#: inc/customizer.php:2706 section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "Susisiekite"
+
+#: inc/customizer.php:2691 section-parts/section-contact.php:2
+msgid "contact"
+msgstr "contact"
+
+#: inc/customizer.php:2656
+msgid "Section: Contact"
+msgstr "Skiltis: Kontaktai"
+
+#: inc/customizer.php:2639 section-parts/section-news.php:8
+msgid "Read Our Blog"
+msgstr "Skaitykite tinklaraštį"
+
+#: inc/customizer.php:2631
+msgid "More News button link"
+msgstr "„Daugiau naujienų“ nuoroda"
+
+#: inc/customizer.php:2616
+msgid "Number of post to show"
+msgstr "Rodomas įrašų kiekis"
+
+#: inc/customizer.php:2551 section-parts/section-news.php:4
+msgid "Latest News"
+msgstr "Naujienos"
+
+#: inc/customizer.php:2536 section-parts/section-news.php:2
+msgid "news"
+msgstr "news"
+
+#: inc/customizer.php:2501
+msgid "Section: News"
+msgstr "Skiltis: Naujienos"
+
+#: inc/customizer.php:2469
+msgid "Team members"
+msgstr "Komandos nariai"
+
+#: inc/customizer.php:2381 section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "Mūsų komanda"
+
+#: inc/customizer.php:2366 section-parts/section-team.php:2
+msgid "team"
+msgstr "team"
+
+#: inc/customizer.php:2332
+msgid "Section: Team"
+msgstr "Skiltis: Komanda"
+
+#: inc/customizer.php:2316
+msgid "After number"
+msgstr "Po skaičiaus"
+
+#: inc/customizer.php:2311
+msgid "Before number"
+msgstr "Prieš skaičių"
+
+#: inc/customizer.php:2306
+msgid "Number"
+msgstr "Skaičius"
+
+#: inc/customizer.php:2303
+msgid "Your counter label"
+msgstr "Jūsų skaičių pavadinimas"
+
+#: inc/customizer.php:1923 inc/customizer.php:2300
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: inc/customizer.php:2291
+msgid "Counter content"
+msgstr "Skaičių skilties turinys"
+
+#: inc/customizer.php:2225 section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "Mūsų skaičiai"
+
+#: inc/customizer.php:2210 section-parts/section-counter.php:2
+msgid "counter"
+msgstr "counter"
+
+#: inc/customizer.php:2176
+msgid "Section: Counter"
+msgstr "Skiltis: Skaičiai"
+
+#: inc/customizer.php:1927 inc/customizer.php:2137
+msgid "Custom icon"
+msgstr "Piktograma"
+
+#: inc/customizer.php:2127
+msgid "Service content"
+msgstr "Paslaugų skilties turinys"
+
+#: inc/customizer.php:2036 section-parts/section-hero.php:79
+#: section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "Mūsų paslaugos"
+
+#: inc/customizer.php:2021 section-parts/section-services.php:2
+msgid "services"
+msgstr "services"
+
+#: inc/customizer.php:1986
+msgid "Section: Services"
+msgstr "Skiltis: Paslaugos"
+
+#: inc/customizer.php:1738 inc/customizer.php:2161
+msgid "Link to single page"
+msgstr "Nuoroda į vieną puslapį"
+
+#: inc/customizer.php:1734
+msgid "Hide item title"
+msgstr "Slepti elemento pavadinimą"
+
+#: inc/customizer.php:1729 inc/customizer.php:2156
+msgid "Select a page"
+msgstr "Pasirinkite puslapį"
+
+#: inc/customizer.php:464 inc/customizer.php:1722 inc/customizer.php:1918
+#: inc/customizer.php:2131 inc/customizer.php:2295 inc/customizer.php:2473
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customizer.php:1385 inc/customizer.php:1697 inc/customizer.php:1894
+#: inc/customizer.php:2107 inc/customizer.php:2271 inc/customizer.php:2449
+#: inc/customizer.php:2753
+msgid "Section Content"
+msgstr "Skilties turinys"
+
+#: inc/customizer.php:1359 inc/customizer.php:1670 inc/customizer.php:1845
+#: inc/customizer.php:2056 inc/customizer.php:2245 inc/customizer.php:2401
+#: inc/customizer.php:2571 inc/customizer.php:2726
+msgid "Section Subtitle"
+msgstr "Skilties paantraštė"
+
+#: inc/customizer.php:1354 inc/customizer.php:1665 inc/customizer.php:1840
+#: inc/customizer.php:2051 inc/customizer.php:2240 inc/customizer.php:2396
+#: inc/customizer.php:2566 inc/customizer.php:2721
+#: section-parts/section-about.php:5 section-parts/section-contact.php:5
+#: section-parts/section-counter.php:5 section-parts/section-gallery.php:5
+#: section-parts/section-news.php:5 section-parts/section-services.php:5
+#: section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "Skilties paantraštė"
+
+#: inc/customizer.php:1344 inc/customizer.php:1655 inc/customizer.php:1830
+#: inc/customizer.php:2041 inc/customizer.php:2230 inc/customizer.php:2386
+#: inc/customizer.php:2556 inc/customizer.php:2711
+msgid "Section Title"
+msgstr "Skilties pavadinimas"
+
+#: inc/customizer.php:1635 section-parts/section-about.php:2
+msgid "about"
+msgstr "apie"
+
+#: inc/customizer.php:1196 inc/customizer.php:1298 inc/customizer.php:1609
+#: inc/customizer.php:1784 inc/customizer.php:1995 inc/customizer.php:2185
+#: inc/customizer.php:2341 inc/customizer.php:2510 inc/customizer.php:2665
+msgid "Section Settings"
+msgstr "Skilties nustatymai"
+
+#: inc/customizer.php:1600
+msgid "Section: About"
+msgstr "Skiltis: Apie"
+
+#: inc/customizer.php:1109
+msgid "Button #2 Link"
+msgstr "Mygtuko #2 tekstas"
+
+#: inc/customizer.php:1104 section-parts/section-hero.php:82
+msgid "#contact"
+msgstr "#contact"
+
+#: inc/customizer.php:1095
+msgid "Button #2 Text"
+msgstr "Mygtuko #2 tekstas"
+
+#: inc/customizer.php:1090 section-parts/section-hero.php:81
+msgid "Get Started"
+msgstr "Pirmi žingsniai"
+
+#: inc/customizer.php:1057
+msgid "Button #1 Link"
+msgstr "Mygtuko #1 nuoroda"
+
+#: inc/customizer.php:1052
+msgid "#about"
+msgstr "#about"
+
+#: inc/customizer.php:1043
+msgid "Button #1 Text"
+msgstr "Mygtuko #1 tekstas"
+
+#: inc/customizer.php:1038 inc/customizer.php:1650
+#: section-parts/section-about.php:4
+msgid "About Us"
+msgstr "Apie mus"
+
+#: inc/customizer.php:1030
+msgid "You can use text rotate slider in this textarea too."
+msgstr "Šioje skiltyje taip pat galite naudoti teksto keitiklį."
+
+#: inc/customizer.php:1027
+msgid "Small Text"
+msgstr "Mažas tekstas"
+
+#: inc/customizer.php:1012
+msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer->Site Option->Animate to control rotate animation."
+msgstr "Teksto keitiklio gidas: Keičiamas frazes atskirkite \"|\" simboliu ir įdėkite į <span class=\"js-rotating\">...</span> žymą, tuomet eikite į Vaizdusis režimas -> Tinklalapio nustatymai -> Animuoti, jei norite keisti nustatymus."
+
+#: inc/customizer.php:1010
+msgid "Large Text"
+msgstr "Didelis tekstas"
+
+#: inc/customizer.php:970
+msgid "Hero Content Layout"
+msgstr "Hero skilties turinio išdėstymas"
+
+#: inc/customizer.php:897
+msgid "Background Image"
+msgstr "Fono paveikslėlis"
+
+#: inc/customizer.php:892
+msgid "Background"
+msgstr "Fonas"
+
+#: inc/customizer.php:888
+msgid "Background Images"
+msgstr "Fono paveikslėliai"
+
+#: inc/customizer.php:862
+msgid "Hero Background Media"
+msgstr "Hero skilties fono medija"
+
+#: inc/customizer.php:759
+msgid "Padding Bottom:"
+msgstr "Atitraukimas apačioje:"
+
+#: inc/customizer.php:743
+msgid "Padding Top:"
+msgstr "Atitraukimas viršuje:"
+
+#: inc/customizer.php:738 inc/customizer.php:754
+msgid "10"
+msgstr "10"
+
+#: inc/customizer.php:730
+msgid "Check this box to make hero section full screen."
+msgstr "Pažymėkite, jei norite, kad ši skiltis užimtų visą puslapio plotį."
+
+#: inc/customizer.php:728
+msgid "Make hero section full screen"
+msgstr "Padaryti skiltį pilno pločio"
+
+#: inc/customizer.php:712 inc/customizer.php:1227 inc/customizer.php:1329
+#: inc/customizer.php:1640 inc/customizer.php:1815 inc/customizer.php:2026
+#: inc/customizer.php:2215 inc/customizer.php:2371 inc/customizer.php:2541
+#: inc/customizer.php:2696
+msgid "Section ID:"
+msgstr "Skilties ID:"
+
+#: inc/customizer.php:707 section-parts/section-hero.php:2
+msgid "hero"
+msgstr "hero"
+
+#: inc/customizer.php:700 inc/customizer.php:1214 inc/customizer.php:1316
+#: inc/customizer.php:1627 inc/customizer.php:1802 inc/customizer.php:2013
+#: inc/customizer.php:2202 inc/customizer.php:2359 inc/customizer.php:2528
+#: inc/customizer.php:2683
+msgid "Check this box to hide this section."
+msgstr "Pažymėkite, jei norite paslėpti šią skiltį."
+
+#: inc/customizer.php:491
+msgid "Newsletter"
+msgstr "Naujienlaiškis"
+
+#: inc/customizer.php:698 inc/customizer.php:1212 inc/customizer.php:1314
+#: inc/customizer.php:1625 inc/customizer.php:1800 inc/customizer.php:2011
+#: inc/customizer.php:2200 inc/customizer.php:2357 inc/customizer.php:2526
+#: inc/customizer.php:2681
+msgid "Hide this section?"
+msgstr "Paslėpti šią skiltiį?"
+
+#: inc/customizer.php:682
+msgid "Hero Settings"
+msgstr "Hero skilties nustatymai"
+
+#: inc/customizer.php:672
+msgid "Section: Hero"
+msgstr "Skiltis: Hero"
+
+#: inc/customizer.php:538
+msgid "MailChimp Action URL"
+msgstr "Mailchimp Action URL"
+
+#: inc/customizer.php:522
+msgid "Newsletter Form Title"
+msgstr "Naujienlaiškio bloko pavadinimas"
+
+#: inc/customizer.php:508
+msgid "Check this box to hide footer newsletter form."
+msgstr "Pažymėkite, jei norite paslėpti naujienlaiškio prenumeratos formą poraštėje."
+
+#: inc/customizer.php:506
+msgid "Hide Footer Newsletter?"
+msgstr "Paslėpti naujienlaiškį?"
+
+#: inc/customizer.php:440
+msgid "Social Footer Title"
+msgstr "Soc. poraštės pavadinimas"
+
+#: inc/customizer.php:426
+msgid "These social profiles setting below will display at the footer of your site."
+msgstr "Šios žemiau nustatytos soc. tinklų nuorodos bus rodomos tinklalapio poraštėje."
+
+#: inc/customizer.php:413
+msgid "Check this box to hide footer social section."
+msgstr "Pažymėkite, jei norite paslėpti soc. tinklų nuordas poraštėje."
+
+#: inc/customizer.php:411
+msgid "Hide Footer Social?"
+msgstr "Paslėpti soc. nuorodas?"
+
+#: inc/customizer.php:395
+msgid "Social Profiles"
+msgstr "Soc. nuorodos"
+
+#: inc/customizer.php:182
+msgid "Check this box to hide footer back to top button."
+msgstr "Pažymėkite, jei norite paslėpti „į viršų“ mygtuką poraštėje."
+
+#: inc/customizer.php:180
+msgid "Hide footer back to top?"
+msgstr "Paslėpti „į viršų“ nuorodą?"
+
+#: inc/customizer.php:165
+msgid "Check this box to disable all element animation when scroll."
+msgstr "Pažymėkite, jei norite išjungti animaciją slenkant puslapį."
+
+#: inc/customizer.php:163
+msgid "Disable animation effect?"
+msgstr "Išjungti animacijos efektą?"
+
+#: inc/customizer.php:109
+msgid "Global"
+msgstr "Bendri"
+
+#: inc/customizer.php:99
+msgid "Theme Options"
+msgstr "Temos parinktys"
+
+#: inc/customizer.php:49
+msgid "Select member"
+msgstr "Pasirinkti narį"
+
+#: inc/customizer.php:38
+msgid "Select page"
+msgstr "Pasirinkti puslapį"
+
+#: inc/customizer.php:25
+msgid "Site Title, Tagline & Logo"
+msgstr "Tinklalapio pavadinimas, aprašymas, logotipas"
+
+#: inc/customizer-controls.php:675
+msgid "Close"
+msgstr "Aizvērt"
+
+#: inc/customizer-controls.php:640
+msgid "Change"
+msgstr "Изменение"
+
+#: inc/customizer-controls.php:640
+msgid "Add"
+msgstr "Pridėti grupę"
+
+#: inc/customizer-controls.php:639 inc/customizer-controls.php:661
+#: inc/customizer-controls.php:673
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/customizer-controls.php:408 inc/customizer-controls.php:523
+msgid "Item"
+msgstr "Produktas"
+
+#: inc/customizer-controls.php:508
+msgid "Add an item"
+msgstr "Pridėti elementą"
+
+#: inc/template-tags.php:73
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#: functions.php:371
+msgid "Please contact the administrator of this site for help."
+msgstr "Susisiekite su tinklalapio administratoriumi dėl pagalbos."
+
+#: functions.php:370
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Visi įskiepiai įdiegti ir sėkmingai įjungti. %1$s"
+
+#: functions.php:369
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Įskiepis neaktyvuotas. Šiai temai reikalinga naujesnė %s versija. Prašome atnaujinti."
+
+#: functions.php:368
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Įskiepis %1$s jau buvo aktyvus."
+
+#: functions.php:366
+msgid "Plugin activated successfully."
+msgstr "Įskiepis sėkmingai aktyvuotas."
+
+#: functions.php:367
+msgid "The following plugin was activated successfully:"
+msgstr "Šis įskiepis buvo sėkmingai įjungtas:"
+
+#: functions.php:365
+msgid "Return to Required Plugins Installer"
+msgstr "Grįžti į reikalingų įskiepių diegiklį"
+
+#: functions.php:364
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Pradėti įskiepio aktyvavimą"
+msgstr[1] "Pradėti įskiepių aktyvavimą"
+msgstr[2] "Pradėti įskiepių aktyvavimą"
+
+#: functions.php:363
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Pradėti įskiepio atnaujinimą"
+msgstr[1] "Pradėti įskiepių atnaujinimą"
+msgstr[2] "Pradėti įskiepių atnaujinimą"
+
+#: functions.php:362
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Pradėti įskiepio diegimą"
+msgstr[1] "Pradėti įskiepių diegimą"
+msgstr[2] "Pradėti įskiepių diegimą"
+
+#: functions.php:360
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Šiuo metu yra išjungtas šis rekomenduojamas įskiepis: %1$s."
+msgstr[1] "Šiuo metu yra išjungti šie rekomenduojami įskiepiai: %1$s."
+msgstr[2] "Šiuo metu yra išjungti šie rekomenduojami įskiepiai: %1$s."
+
+#: functions.php:361
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Deja, neturite teisės aktyvuoti %1$s įskiepį."
+msgstr[1] "Deja, neturite teisės aktyvuoti %1$s įskiepių."
+msgstr[2] "Deja, neturite teisės aktyvuoti %1$s įskiepių."
+
+#: functions.php:359
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Šiuo metu yra išjungtas šis reikiamas įskiepis: %1$s."
+msgstr[1] "Šiuo metu yra išjungti šie reikiami įskiepiai: %1$s."
+msgstr[2] "Šiuo metu yra išjungti šie reikiami įskiepiai: %1$s."
+
+#: functions.php:358
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Deja, neturite teisės atnaujinti %1$s įskiepį."
+msgstr[1] "Deja, neturite teisės atnaujinti %1$s įskiepių."
+msgstr[2] "Deja, neturite teisės atnaujinti %1$s įskiepių."
+
+#: functions.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Įskiepį %1$s galima atnaujinti."
+msgstr[1] "Įskiepius %1$s galima atnaujinti."
+msgstr[2] "Įskiepius %1$s galima atnaujinti."
+
+#: functions.php:356
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Įskiepis %1$s turi būti atnaujintas iki naujausios versijos, norint užtikrinti maksimalų suderinamumą su šia išvaizdos tema."
+msgstr[1] "Įskiepiai %1$s turi būti atnaujinti iki naujausios versijos, norint užtikrinti maksimalų suderinamumą su šia išvaizdos tema."
+msgstr[2] "Įskiepai %1$s turi būti atnaujinti iki naujausios versijos, norint užtikrinti maksimalų suderinamumą su šia išvaizdos tema."
+
+#: functions.php:355
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Deja, neturite teisės įdiegti %1$s įskiepį."
+msgstr[1] "Deja, neturite teisės įdiegti %1$s įskiepius."
+msgstr[2] "Deja, neturite teisės įdiegti %1$s įskiepių."
+
+#: functions.php:353
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ši tema reikalauja šio įskiepio: %1$s."
+msgstr[1] "Ši tema reikalauja šių įskiepių: %1$s."
+msgstr[2] "Ši tema reikalauja šių įskiepių: %1$s."
+
+#: functions.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ši tema rekomenduoja rekomenduoja šį įskiepį: %1$s."
+msgstr[1] "Ši tema rekomenduoja rekomenduoja šiuos įskiepius: %1$s."
+msgstr[2] "Ši tema rekomenduoja rekomenduoja šiuos įskiepių: %1$s."
+
+#: functions.php:352
+msgid "Something went wrong with the plugin API."
+msgstr "Kažkas atsitiko su įskiepio API."
+
+#: functions.php:351
+msgid "Installing Plugin: %s"
+msgstr "Diegiamas įskiepis: %s"
+
+#: functions.php:350
+msgid "Install Plugins"
+msgstr "Įskiepių diegimo įrankis"
+
+#: functions.php:349
+msgid "Install Required Plugins"
+msgstr "Įdiekite reikalingus įskiepius"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:268
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:262
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:142
+msgid "Sidebar"
+msgstr "Valdiklių sritis"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: inc/template-tags.php:973
+msgid "%1$s theme by %2$s"
+msgstr "%1$s tema, sukurta %2$s"
+
+#: inc/template-tags.php:971
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Autorinės teisės %1$s %2$s %3$s"
+
+#: footer.php:94
+msgid "Back To Top"
+msgstr "Į viršų"
+
+#: footer.php:19 inc/customizer.php:516
+msgid "Join our Newsletter"
+msgstr "Prenumeruokite naujienlaiškį"
+
+#: footer.php:15 inc/customizer.php:434
+msgid "Keep Updated"
+msgstr "Prenumeruoti"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Komentarai uždrausti."
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "Naujesni komentarai"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "Senesni komentarai"
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr "Komentaro naršymas"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Viena mintis apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mintys apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s minčių apie &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pabandykite ieškoti mėnesių archyve. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Dažniausiai naudojamos kategorijos"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau, arba paiešką?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"
